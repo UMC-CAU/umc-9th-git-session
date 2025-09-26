@@ -1,0 +1,3 @@
+caumc-git-session
+# Ignore Mac system files
+.DS_Store
